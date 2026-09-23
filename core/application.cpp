@@ -2611,8 +2611,8 @@ void Application::RenderTrainGeneratorWindow() {
         {"PTC 6-Seat", 2.95f, 3, 2, glm::vec3(0.5f, 0.0f, -0.85f)},
         {"GCI Wooden", 1.15f, 1, 2, glm::vec3(0.5f, 0.0f, 0.0f)},
         {"Gerstlauer Wooden (Trailered 4-Seat)", 1.9f, 2, 2, glm::vec3(0.5f, 0.0f, -0.65f)},
-        {"Intamin Hot Racer", 1.2f, 1, 1, glm::vec3(0.0f, 0.0f, 0.0f)},
-        {"RMC Raptor", 1.5f, 1, 1, glm::vec3(0.0f, 0.0f, 0.0f)}
+        {"Intamin Hot Racer", 1.2f, 1, 1, glm::vec3(0.0f, 0.45f, 0.0f)},
+        {"RMC Raptor", 1.5f, 1, 1, glm::vec3(0.0f, 0.45f, 0.0f)}
     };
 
     static int selectedPreset = 0;
